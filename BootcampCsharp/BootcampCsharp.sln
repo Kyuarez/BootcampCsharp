@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootcampCsharp", "BootcampCsharp.csproj", "{74FDDE8A-C895-4063-B1A9-C9818A16E7E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "250203", "..\250203\250203.csproj", "{4FFBAAF8-AFED-4631-B0DA-630468F98819}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{74FDDE8A-C895-4063-B1A9-C9818A16E7E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74FDDE8A-C895-4063-B1A9-C9818A16E7E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74FDDE8A-C895-4063-B1A9-C9818A16E7E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FFBAAF8-AFED-4631-B0DA-630468F98819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FFBAAF8-AFED-4631-B0DA-630468F98819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FFBAAF8-AFED-4631-B0DA-630468F98819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FFBAAF8-AFED-4631-B0DA-630468F98819}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
